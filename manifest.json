@@ -8,5 +8,17 @@
   "short_name": "GREP",
   "start_url": "/",
   "theme_color": "#ffffff",
-  "id": "Plataforma de vigilancia epidemiológica"
+  "id": "Plataforma de vigilancia epidemiológica",
+  "icons": [
+    {
+      "src": "logo_grep.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo_grep.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
