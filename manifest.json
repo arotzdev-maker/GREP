@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "GREP",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "GREP",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "Plataforma de vigilancia epidemiológica"
+}
